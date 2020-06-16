@@ -1,0 +1,2 @@
+A8250157 數獨
+https://github.com/EricLin900111/A8250157_Sudoku
