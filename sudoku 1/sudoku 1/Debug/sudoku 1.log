@@ -1,5 +1,0 @@
-﻿  main.cpp
-  scene.cpp
-  Sudoku.cpp
-  正在產生程式碼...
-LINK : fatal error LNK1561: 必須定義進入點
